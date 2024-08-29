@@ -1,0 +1,34 @@
+{
+    "editor.fontSize": 14,
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.lineHeight": 22,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "explorer.confirmDelete": false,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "solid",
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "terminal.integrated.fontSize": 14,
+    "window.zoomLevel": 0,
+    "vim.useSystemClipboard": true,
+    "vim.hlsearch": true,
+    "vim.incsearch": true,
+    "vim.handleKeys": {
+        "<C-d>": false,
+        "<C-u>": false
+    },
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<Esc>"]
+        }
+    ]
+}
